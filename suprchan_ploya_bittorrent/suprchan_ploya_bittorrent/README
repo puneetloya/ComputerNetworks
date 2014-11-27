@@ -1,6 +1,6 @@
 Project 2: BitTorrent Client Implementation.
 
-IMPLEMENTED BY : Puneet Loya(username: ploya) and Suprith Chandrashekharachar(username: suprchan)
+IMPLEMENTED BY : Puneet Loya and Suprith Chandrashekharachar
 
 The project is implemented in C++11.
 
@@ -46,10 +46,6 @@ C++ Compiler : g++/4.7.2 OR g++/4.8
 Operating System : Ubuntu14.04/Redhat
 
 Compiling:
-
-If executing on a silo.cs.indiana.edu machine, please make sure you execute the below command at the shell prompt:
-
-	module load gcc/4.7.2
 
 A makefile is provided to compile the program. 
 

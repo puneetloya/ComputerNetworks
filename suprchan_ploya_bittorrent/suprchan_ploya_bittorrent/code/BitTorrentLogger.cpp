@@ -6,7 +6,7 @@ BitTorrentLogger* BitTorrentLogger::m_logger = NULL;
 
 /*****************************************************************************************************************************************************
 
-	Method : netcatLogger()
+	Method : BitTorrentLogger()
 
 	constructor to intialize the verbose state	
 *****************************************************************************************************************************************************/
@@ -44,7 +44,7 @@ int BitTorrentLogger::logMe(string logText,bool onlyLog){
 }
 
 /**
- * Method : logMeOnVerbose
+ * Method : logWithTimeStampToFile
  *
  * Logs the message with timestamp to the file
  */

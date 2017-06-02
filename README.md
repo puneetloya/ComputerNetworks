@@ -1,6 +1,6 @@
-Project 4: Port Scanner.
+PORT SCANNER
 
-IMPLEMENTED BY : Puneet Loya(username: ploya) and Suprith Chandrashekharachar(username: suprchan)
+IMPLEMENTED BY : Puneet Loya and Suprith Chandrashekharachar
 
 The project is implemented in C++11.
 
